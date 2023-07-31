@@ -1,0 +1,20 @@
+*** Changelog ***
+
+= 3.0.0 - 2023.03.01 =
+- New Release: Payment plugin built with seamless payment experience with new v2 API structure and enhanced features
+
+= 2.0.1 - 2019.11.21 =
+* Fix   - Buyer need not enter the customer details again in the Payment form
+* Enhanced  - Updated payment logo for sofort payment
+
+= 2.0.0 - 2019.03.14 =
+* New - Implemented Payments: Payment guarantee (Direct Debit SEPA & Invoice)
+* New - Auto configuration call perform via cURL method
+* New - Direct Debit SEPA due date
+* Enhanced - Pending status and Onhold status has been implemented
+* Enhanced - Callback has been optimized as per the new testcase
+* Enhanced - Novalnet administration portal link has been updated in shop admin
+* Removed - Transaction reference configuration
+
+= 1.0.0 - 2015.04.25 =
+- First release
